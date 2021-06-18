@@ -31,11 +31,11 @@ Import the image file into LaserTool and export the nc file.
 
 <img align="left" width=500 src="./img/1.jpg" />
 
-![Alt text](img/1.jpg)
+![Alt text](https://raw.githubusercontent.com/MULTOO-3DPrinter/LaserTool/main/img/1.jpg)
 
+https://raw.githubusercontent.com/MULTOO-3DPrinter/LaserTool/main/img/1.jpg
 
-
-![Image text](https://github.com/MULTOO-3DPrinter/LaserTool/blob/13d9fd99d495c2686945217b13bf74246b3eeef8/img/1.jpg)
+![Image text](https://raw.githubusercontent.com/MULTOO-3DPrinter/LaserTool/main/img/1.jpg)
 
 img/1.jpg
 
