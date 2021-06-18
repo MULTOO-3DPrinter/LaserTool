@@ -29,7 +29,7 @@ Import the image file into LaserTool and export the nc file.
 
 `Image` -> `LaserTool` -> `nc file`.
 
-<img align="left" width=500 src="img/1.jpg" />
+<img align="left" width=500 src="./img/1.jpg" />
 
 
 
