@@ -22,7 +22,6 @@
 <span id = "version3_1"></span>
 ## Version3.1
 
-&nbsp;
 - Fix calculation bug
 - 'Help' display content correction
 
@@ -34,8 +33,6 @@
 
 <span id = "version3_0"></span>
 ## Version3.0
-
-&nbsp;
 
 Compared to all previous versions,
 - Added filtering of images
