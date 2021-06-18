@@ -41,3 +41,10 @@ Import the image file into LaserTool and export the nc file.
 Edit the text in inkscape, and then export the png format image. Change the format of the png format image to jpg, bmp, jpeg, etc., and then import it into the LaserTool and export the nc file.
 
 `Edit the text in inkscape` -> `png file` -> `jpg, bmp, jpeg etc.` -> `LaserTool` -> `nc file`
+
+
+![Image](https://github.com/MULTOO-3DPrinter/LaserTool/blob/e70e9f90d849fed1870f93785b2d43514e641d02/images/text.png)
+
+
+
+
