@@ -24,6 +24,7 @@
 
 - Fix calculation bug
 - 'Help' display content correction
+- The maximum engraving size is restored to the original setting of 400 (mm) * 400 (mm).
 
 &nbsp;
 
@@ -39,6 +40,7 @@ Compared to all previous versions,
 - Increase inverse color
 - Added custom area carving
 - Removed the text edit box
+- The engraving size is temporarily set to 200 (mm) * 200 (mm).
 
 &nbsp;
 
