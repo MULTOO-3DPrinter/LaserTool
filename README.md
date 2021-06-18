@@ -3,6 +3,9 @@
 - Laser engraving function of 3D printer
 - This is an auxiliary software. The main function is to export files recognized by the 3D printer (NC, Gcode, and other formats).
 - The exported file format can be customized. What it exports is text.
+- It only does image processing.
+- This software is mainly provided to customers who own MULTOO 3D printers. Customers can also choose not to use it. 
+- It is a security software, please feel free to use it.
 &nbsp;
 
 
