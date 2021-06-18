@@ -47,6 +47,7 @@ Compared to all previous versions,
 ## Usage
 
 1. Engrave the image.
+
 Import the image file into LaserTool and export the nc file.
 
 `Image` -> `LaserTool` -> `nc file`.
@@ -60,6 +61,7 @@ Import the image file into LaserTool and export the nc file.
 
 
 2. Character engraving.
+
 Edit the text in inkscape, and then export the png format image. Change the format of the png format image to jpg, bmp, jpeg, etc., and then import it into the LaserTool and export the nc file.
 
 `Edit the text in inkscape` -> `png file` -> `jpg, bmp, jpeg etc.` -> `LaserTool` -> `nc file`
