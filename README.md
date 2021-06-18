@@ -31,7 +31,7 @@ Import the image file into LaserTool and export the nc file.
 
 <img align="left" width=500 src="./img/1.jpg" />
 
-
+![Alt text](img/1.jpg)
 
 
 
