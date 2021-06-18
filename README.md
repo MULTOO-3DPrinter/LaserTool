@@ -35,7 +35,7 @@ Import the image file into LaserTool and export the nc file.
 
 https://raw.githubusercontent.com/MULTOO-3DPrinter/LaserTool/main/img/1.jpg
 
-![Image text](https://raw.githubusercontent.com/MULTOO-3DPrinter/LaserTool/main/img/1.jpg)
+![Image](https://github.com/MULTOO-3DPrinter/LaserTool/blob/d249da6dcecf972c7ddee1edd7253fd779ba6cc4/images/1.png)
 
 img/1.jpg
 
